@@ -242,6 +242,9 @@ img {
   border-bottom: 1px solid #e7e6e6;
   overflow: hidden;
 }
+.task-main ul.task-ul li:last-child {
+  border-bottom: none;
+}
 .task-main ul.task-ul li .task-img {
   float: left;
   width: 1.54rem;
